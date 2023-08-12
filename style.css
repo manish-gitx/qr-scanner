@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 body{
+    background: url('/img.png');
+    background-size:contain;
+    background-repeat: repeat;
 
 }
 #imgBox{
